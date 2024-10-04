@@ -1,0 +1,12 @@
+export 'Add_new_address/add_new_address.dart';
+export 'Home_screen/home_screen.dart';
+export 'Login/login.dart';
+export 'Phone_registration/phone_registration.dart';
+export 'Profile/profile.dart';
+export 'Reset_password/reset_password.dart';
+export 'Review_restaurent/review_restaurent.dart';
+export 'Reviews/reviews.dart';
+export 'Sign_up/signup.dart';
+export 'Splash_screen/splash.dart';
+export 'Verification_code/verification_code.dart';
+export 'Welcome_screen/welcome.dart';
