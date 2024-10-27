@@ -1,5 +1,5 @@
 ffnhhhhhhji# Flutter Food App
-bbb
+
 A simple food delivery app built using Flutter by Piyush. The app allows users to explore food categories, select their favorite food and restaurants, manage a cart, and place orders.
 
 ## Features
